@@ -1,6 +1,6 @@
 # jwd6_project_branching
 # practice
 
+# still figuring out branching
+# saman helping out
 
-This is line 5
-This is line 6
